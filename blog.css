@@ -1,0 +1,46 @@
+body{
+  border: 15px solid #bdc3c7;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.date{
+  color: #3498db;
+  text-transform: uppercase;
+  margin-left: 15px;
+  padding-right: 15px;
+  font-size: 12px;
+  font-weight: 800;
+  margin-bottom: 15px;
+  letter-spacing: 2px;
+}
+
+h2{
+  color: #2c3e50;
+  margin-left: 15px;
+  padding-right: 15px;
+  font-size: 35px;
+  font-weight: 900;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+p{
+  color: #2c3e50;
+  margin-left: 15px;
+  margin-right: 15px;
+  font-weight: 500;
+  margin-top: 15px;
+}
+
+.firstPar{
+  border-left: 5px solid #bdc3c7;
+  padding-left: 5px;
+}
+
+hr{
+  border: 1px solid rgba(189,195,199, 0.3);
+  margin-left: 15px;
+  margin-right: 15px;
+}
